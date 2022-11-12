@@ -6,7 +6,9 @@
       <module fileurl="file://$PROJECT_DIR$/Lab3/demo.iml" filepath="$PROJECT_DIR$/Lab3/demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lab2/demo (1).iml" filepath="$PROJECT_DIR$/Lab2/demo (1).iml" />
       <module fileurl="file://$PROJECT_DIR$/Lab4/demo (2).iml" filepath="$PROJECT_DIR$/Lab4/demo (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab6/lab6.iml" filepath="$PROJECT_DIR$/lab6/lab6.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lab1/restdemo.iml" filepath="$PROJECT_DIR$/Lab1/restdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab5/spring-security-1.iml" filepath="$PROJECT_DIR$/Lab5/spring-security-1.iml" />
     </modules>
   </component>
 </project>
